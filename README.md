@@ -4,6 +4,11 @@
 
 A function that aliases the very handy `Promise.all` as `Promise.ass`.
 
+## Installing
+```bash
+npm i promise-ass
+```
+
 ## Why?
 
 Have you ever typed `Promise.ass` instead of `Promise.all`, only to get a `TypeError: Promise.ass() is not a function`? Not anymore!
